@@ -1,0 +1,7 @@
+[project]
+name = "retry-storm-simulator"
+version = "0.1.0"
+description = "Kesinti ve Retry Fırtınası Simülatörü"
+requires-python = ">=3.12"
+[tool.ruff]
+line-length = 120

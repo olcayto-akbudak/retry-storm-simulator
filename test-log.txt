@@ -1,0 +1,13 @@
+test_attempt_bound (test_core.CoreTests.test_attempt_bound) ... ok
+test_capacity (test_core.CoreTests.test_capacity) ... ok
+test_deadline (test_core.CoreTests.test_deadline) ... ok
+test_duplicate (test_core.CoreTests.test_duplicate) ... ok
+test_empty (test_core.CoreTests.test_empty) ... ok
+test_no_retry (test_core.CoreTests.test_no_retry) ... ok
+test_policy (test_core.CoreTests.test_policy) ... ok
+test_reproducible (test_core.CoreTests.test_reproducible) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.004s
+
+OK
